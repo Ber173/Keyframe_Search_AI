@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+opencv-python
+pillow
+tqdm
+numpy
+matplotlib
+scikit-learn
+pandas
+scipy
+git+https://github.com/openai/CLIP.git

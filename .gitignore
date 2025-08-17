@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.venv/
+env/
+venv/
+*.egg-info/
+data/videos/
+data/frames/
+data/features/
+outputs/
+*.log
+.ipynb_checkpoints/
+.DS_Store
