@@ -10,3 +10,4 @@ scikit-learn
 pandas
 scipy
 git+https://github.com/openai/CLIP.git
+scikit-image
